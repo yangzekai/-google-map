@@ -1,7 +1,7 @@
 # -google-map
 利用高德地图显示google map
 https://www.jianshu.com/p/df3865ac9af7
-淼 jVXItf0Xqw59tk1Dvl/c0bZG/i61cWO/MB0uGytia1k=淼
+淼{"version":2,"is_force":true,"description":"test"}淼
 public class GoogleMapUtil {          
 final static String url = "http://mt2.google.cn/vt/lyrs=y@167000000&hl=zh-CN&gl=cn&x=%d&y=%d&z=%d&s=Galil";
 public static TileOverlayOptions getGooleMapTileOverlayOptions() {
