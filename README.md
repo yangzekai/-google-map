@@ -1,7 +1,7 @@
 # -google-map
 利用高德地图显示google map
 https://www.jianshu.com/p/df3865ac9af7
-淼{"version":2,"is_force":true,"description":"test","url":"https://raw.githubusercontent.com/yangzekai/-google-map/master/app-debug.apk"}淼
+淼{"version":2,"is_force":false,"description":"test","url":"https://raw.githubusercontent.com/yangzekai/-google-map/master/app-debug.apk"}淼
 public class GoogleMapUtil {          
 final static String url = "http://mt2.google.cn/vt/lyrs=y@167000000&hl=zh-CN&gl=cn&x=%d&y=%d&z=%d&s=Galil";
 public static TileOverlayOptions getGooleMapTileOverlayOptions() {
